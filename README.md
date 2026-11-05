@@ -1,7 +1,7 @@
-<p align="left">
-<a href="https://aicollaboration.vercel.app/Soyeonp79/#f1f1799b3746ab84"><img src="readme/card.svg?v=1793743622" alt="" width="1600" /></a>
-</p>
+<div align="center">
 
-Building small tools and experiments, and this is where it shows up.
+<a href="https://dataannotation.vercel.app/Soyeonp79/#f1f1799b3746ab84">
+  <img src="https://raw.githubusercontent.com/Soyeonp79/Soyeonp79/main/readme/card-1793895934.png" alt="Collaboration offer — long-term AI and software work" width="960" />
+</a>
 
-[Read the collaboration proposal →](https://aicollaboration.vercel.app/Soyeonp79/#f1f1799b3746ab84)
+</div>
